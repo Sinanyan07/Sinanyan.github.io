@@ -1,0 +1,169 @@
+@media screen and (max-width: 1215px) {
+    .header {
+        gap: 0px;
+    }
+
+    .logo {
+        max-width: 334px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1165px) {
+    .menu {
+        gap: 0px;
+        max-width: 450px;
+        width: 100%;
+    }
+
+    .aj {
+        max-width: 140px;
+        gap: 8px;
+    }
+}
+
+@media screen and (max-width:1070px) {
+    .menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .menu {
+        max-width: 150px;
+    }
+}
+
+@media screen and (max-width:770px) {
+    .menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width:915px) {
+    .aj{
+        max-width: 120px;
+    }
+}
+@media screen and (max-width:1344px) {
+    .ereqov {
+        align-items: center;
+    }
+
+    .erkusov {
+        justify-content: center;
+    }
+
+    .dzax {
+        margin-left: 0px;
+    }
+
+}
+
+@media screen and (max-width:1230px) {
+    .diver {
+        flex-direction: column;
+        max-width: 415px;
+    }
+
+    .seconddiv {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .verev615 {
+        gap: 0px;
+        max-width: 310px;
+    }
+
+    .pat {
+        max-width: 370px;
+    }
+
+    .diver {
+        max-width: 320px;
+    }
+}
+
+@media screen and (max-width:1340px) {
+    .ajmenu {
+        gap: 0px;
+        max-width: 675px;
+    }
+
+    .hrgic {
+        max-width: 1040px;
+    }
+
+    .div350 {
+        margin-left: 153px;
+    }
+}
+
+@media screen and (max-width:1202px) {
+    .ul4 {
+        display: none;
+    }
+
+    .ajmenu {
+        max-width: 535px;
+    }
+
+  
+    .hrgic {
+        max-width: 894px;
+    }
+
+    .div350 {
+        max-width: 357px;
+        margin-left: 6px;
+    }
+}
+
+@media screen and (max-width:1057px) {
+    .ul3 {
+        display: none;
+    }
+
+    .ajmenu {
+        max-width: 370px;
+    }
+    .div344 {
+        gap: 14px;
+    }
+    .hrgic{
+        max-width: 730px;
+    }
+    .div350{
+        margin-top: 10px;
+        margin-left: 0px;
+        max-width: 379px;
+    }
+    .dzaxi{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media screen and (max-width:920px) {
+    .ul2{
+        display: none;
+    }
+    .ajmenu{
+        max-width: 150px;
+    }
+    .hrgic{
+        max-width: 610px;
+    }
+}
+@media screen and (max-width:760px) {
+    .hrgic{
+        max-width: 400px;
+    }
+    .ajmenu{
+        margin-left: 383px;
+    }
+}
